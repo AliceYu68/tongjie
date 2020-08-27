@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhuonan Hao"
+title                    : "Zhuonan Hao|Homepage"
 title_separator          : "-"
 name                     : &name "Zhuonan Hao|Homepage"
 description              : &description "personal academic homepage"
