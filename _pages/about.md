@@ -9,6 +9,3 @@ redirect_from:
 ---
 
 This is Zhuonan's homepage on the web!
-
-
-
