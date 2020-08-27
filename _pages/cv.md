@@ -12,20 +12,20 @@ redirect_from:
 Education
 ======
 * B.Sc. in Vehicle Engineering, Beijing Institute of Technology, 2015-2019
-* Exchange in University of Wollongong, Australia, major in Mechanical and Materials Engineering, 2018-2019
+* Exchange in University of Wollongong, Australia, major in Mechatronics and Materials Engineering, 2018-2019
 * M.Sc in Mechanical and Aerospace Engineering, University of California, San Diego, 2019-2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2015: Graduate Research Assistant
+  * UC San Diego
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Nicholas Gravish
 
-* Fall 2015: Research Assistant
-  * Github University
+* Fall 2015: Undergraduate Research Assistant
+  * University of Wollongong
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Weihua Li
   
 Skills
 ======
