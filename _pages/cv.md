@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Sc. in Vehicle Engineering, Beijing Institute of Technology, 2015-2019
-* Exchange in School of Mechanical and Materials Engineering, University of Wollongong, 2018-2019
+* Exchange in University of Wollongong, major in Mechanical and Materials Engineering, 2018-2019
 * M.Sc in Mechanical and Aerospace Engineering, University of California, San Diego, 2019-2021 (expected)
 
 Work experience
