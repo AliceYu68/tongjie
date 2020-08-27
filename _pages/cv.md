@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, Beijing Institute of Technology, 2015-2019
-* M.S. in Jekyll, University of Wollongong, 2018-2019
-* Ph.D in Version Control Theory, University of California, San Diego, 2019-2021 (expected)
+* B.Sc. in Vehicle Engineering, Beijing Institute of Technology, 2015-2019
+* Exchange in School of Mechanical, Materials, Mechatronic and Biomedical Engineering, University of Wollongong, 2018-2019
+* M.Sc in Mechanical and Aerospace Engineering, University of California, San Diego, 2019-2021 (expected)
 
 Work experience
 ======
