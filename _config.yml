@@ -85,9 +85,9 @@ author:
   bio              : "M.Sc. in Mechanical and Aerospace Engineering"
   location         : "San Diego, California"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8bMIuQoAAAAJ&hl=en"
-  email            :
+  email            : "z4hao@ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
