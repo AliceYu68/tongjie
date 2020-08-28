@@ -11,9 +11,9 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Homepage"
 description              : &description "personal academic homepage"
-url                      : https://zhuonan-hao.github.io/tongjie/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aliceyu68.github.io/tongjie/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhuonan-hao.github.io"
+repository               : "AliceYu68.tongjie"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
