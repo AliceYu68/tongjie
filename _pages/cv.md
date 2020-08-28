@@ -41,8 +41,13 @@ Skills
   * English
   * Chinese
   * Cantonese
-* Market Analysis & Business Strategy
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Network Techniques
+* Operations Administration
+* Data Analysis
+* Strategy Research \& Analysis
+* Administration Skills
+* Supply Chain Management
+* Strategy Risk Assessment 
+* Business Strategy
+* Market Analysis
+* Business Communication Skills  
