@@ -11,7 +11,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Homepage"
 description              : &description "personal academic homepage"
-url                      : https://zhuonan-hao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhuonan-hao.github.io/tongjie/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhuonan-hao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhuonan Hao"
+  name             : "Tongjie Yu"
   avatar           : "Selfie.jpg"
   bio              : 
-                    M.Sc. in Mechanical and Aerospace Engineering <br>
-                    UC San Diego <br>
+                    M.B.A. <br>
+                    Alliant International University <br>
                     <br>
-                    9500 Gilman Drive <br>
-                    La Jolla, CA 92093-0021 <br>
+                    0455 Pomerado Rd <br>
+                    San Diego, CA 92131 <br>
                     United States <br>
   location         : "San Diego, California"
   employer         :
