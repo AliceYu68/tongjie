@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Careers"
+permalink: /careers/
 author_profile: true
 ---
 
