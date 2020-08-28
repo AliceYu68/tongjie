@@ -4,13 +4,6 @@ permalink: /honors/
 author_profile: true
 ---
 
----
-layout: archive
-title: "Honors"
-permalink: /honors/
-author_profile: true
----
-
 * Scholarship
   * Granted student scholarship During 2016 - 2017
 
