@@ -8,7 +8,10 @@ main:
     url: /careers/
 
   - title: "Honors and Awards"
-    url: /honors and awards/    
+    url: /honors and awards/   
+    
+  - title: "Portfolio"
+    url: /portfolio/
     
   - title: "Contact"
     url: /contact/
