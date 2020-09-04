@@ -13,7 +13,6 @@ redirect_from:
 Education and training
 ======
 * Master of Business Administration in Alliant Internatinal University, 2019-2020
-* Bachelor of Business Administration in Alliant Internatinal University, 2016-2017
 * HarvardX leadership traning, 2020
 
 Work experience
