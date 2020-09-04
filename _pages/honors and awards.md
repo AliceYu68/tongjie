@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 **Scholarship**
-  * Granted student scholarship During 2016 - 2017
+  * Granted student scholarship 
 
 **Excellent Staff**
   * Voted as a good employee many times when working in A Bowl INC and Jay Tea House INC
