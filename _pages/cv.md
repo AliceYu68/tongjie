@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download](tongjie-yu.github.io/files/Resume.pdf)
+[Download](tongjie-yu.github.io/files/Tongjie_Yu___Resume.pdf)
 
 Education and training
 ======
