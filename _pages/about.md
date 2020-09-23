@@ -12,7 +12,7 @@ I am a graduate student in the [Master of Business Administration](https://www.a
 
 Career overview
 ======
-* peration Supervisor in A Bowl, INC
+* Operation Supervisor in A Bowl, INC
 * Marketing Intern in Jay Tea House, INC
 * Operation Intern in Tasty Noodle House, INC (San Diego Branch)
 
