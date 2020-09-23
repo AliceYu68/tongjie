@@ -12,9 +12,9 @@ I am a graduate student in the [Master of Business Administration](https://www.a
 
 Career overview
 ======
-* Account manager in A Bowl, INC
-* Assistant manager in Jay Tea House, INC
-* Supervisor in Tasty Noodle House, INC
+* peration Supervisor in A Bowl, INC
+* Marketing Intern in Jay Tea House, INC
+* Operation Intern in Tasty Noodle House, INC (San Diego Branch)
 
 Current Income
 ======
