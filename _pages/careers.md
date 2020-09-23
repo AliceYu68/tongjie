@@ -15,6 +15,6 @@ author_profile: true
   * Marketing research. Track competitors' sale activities and marketing modes monthly, and report to supervisor or department manager
   * Performance analysis. Taking supply-demand relationship into consideration, enhance products' market competitiveness
   
-* Operation Intern: Nov. 2017 - Nov. 2018 - [Tasty Noodle House INC](http://www.tastynoodlehousesandiego.com/) - San Diego
+* Operation Intern: Nov. 2017 - Nov. 2018 - [Tasty Noodle House INC](http://www.tastynoodlehousesandiego.com/) - San Diego Branch
   * Team coordination. Help manager to build connection with functional departments, and work with group's operation team to boost branch business
   * Project planning. Prepare, compile and implement branch budget plan with detailed working content and specific task lists
