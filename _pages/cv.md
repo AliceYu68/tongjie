@@ -12,14 +12,15 @@ redirect_from:
 
 Education and training
 ======
-* Master of Business Administration in Alliant Internatinal University, 2019-2020
-* HarvardX leadership traning, 2020
+* Master of Business Administration - Alliant Internatinal University - Jan. 2019 - Mar. 2020
+* Bachelor of Business Administration - Alliant Internatinal University - Aug. 2015 - Oct. 2017
+* Leaders of Learning - HarvardX - Apr. 2020
 
 Work experience
 ======
-* Accont Manager: Mar. - Aug. 2020 - A Bowl INC
-* Assistant Manager: Nov. 2017 - Nov. 2018 - Jay Tea House INC
-* Supervisor: Nov. 2017 - Nov. 2018 - Tasty Noodle House INC  
+* Operation Supervisor: Mar. - Aug. 2020 - A Bowl INC
+* Marketing Intern: Nov. 2017 - Nov. 2018 - Jay Tea House INC
+* Operation Intern : Nov. 2017 - Nov. 2018 - Tasty Noodle House INC  
   
 Skills
 ======
