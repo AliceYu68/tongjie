@@ -20,7 +20,7 @@ Work experience
 ======
 * Operation Supervisor: Mar. - Aug. 2020 - A Bowl INC
 * Marketing Intern: Nov. 2017 - Nov. 2018 - Jay Tea House INC
-* Operation Intern : Nov. 2017 - Nov. 2018 - Tasty Noodle House INC  
+* Operation Intern : Nov. 2017 - Nov. 2018 - Tasty Noodle House INC (San Diego Branch)
   
 Skills
 ======
