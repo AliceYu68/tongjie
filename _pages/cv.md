@@ -24,18 +24,18 @@ Work experience
   
 Skills
 ======
-* Proficient in Office Software
-* Verbal & Written Communication
-* Network Techniques
-* Operations Administration
+* Photoshop
 * Data Analysis
-* Strategy Research \& Analysis
-* Administration Skills
-* Supply Chain Management
-* Strategy Risk Assessment 
-* Business Strategy
+* Website Desigh
 * Market Analysis
+* Business Strategy
+* Administration Skills
+* Strategy Risk Assessment 
+* Operations Administration
 * Business Communication Skills  
+* Proficient in Office Software
+* Strategy Research \& Analysis
+* Verbal & Written Communication
 
 Languages
 ======
