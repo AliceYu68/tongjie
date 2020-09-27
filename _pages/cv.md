@@ -32,9 +32,9 @@ Skills
 * Administration Skills
 * Strategy Risk Assessment 
 * Operations Administration
-* Business Communication Skills  
 * Proficient in Office Software
 * Strategy Research \& Analysis
+* Business Communication Skills  
 * Verbal & Written Communication
 
 Languages
