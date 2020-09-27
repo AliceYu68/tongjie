@@ -30,8 +30,8 @@ Skills
 * Market Analysis
 * Business Strategy
 * Administration Skills
-* Strategy Risk Assessment 
 * Operations Administration
+* Strategy Risk Assessment 
 * Proficient in Office Software
 * Strategy Research \& Analysis
 * Business Communication Skills  
