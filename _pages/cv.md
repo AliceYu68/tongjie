@@ -26,7 +26,7 @@ Skills
 ======
 * Photoshop
 * Data Analysis
-* Website Desigh
+* Website Design
 * Market Analysis
 * Business Strategy
 * Administration Skills
